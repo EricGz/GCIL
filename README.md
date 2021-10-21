@@ -1,2 +1,2 @@
 # GCIL
-Official Implementation of GCIL
+The official implementation of GCIL.
